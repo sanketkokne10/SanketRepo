@@ -6,5 +6,8 @@ aster 2 code for rebase
 11
 revert demo -1
 revert demo -2
+<<<<<<< HEAD
 revert demo -3
 
+=======
+>>>>>>> parent of a5b0a70... revert demo -3
